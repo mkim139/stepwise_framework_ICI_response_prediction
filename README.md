@@ -2,7 +2,7 @@
 Analysis code
 
 ## Packages and versions
-numpy (1.26.4) \n
+numpy (1.26.4)  
 pandas (2.2.2) \n
 scipy (1.13.1) \n
 matplotlib (3.8.4) \n
