@@ -1,5 +1,5 @@
 # Senescence-aware filtering reveals robust predictors of cancer immunotherapy outcomes
-Analysis code for reproducibility
+Code for reproducibility
 
 ## Packages and versions
 numpy (1.26.4)  
